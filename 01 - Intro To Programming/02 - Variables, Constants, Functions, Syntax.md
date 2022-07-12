@@ -1,0 +1,3 @@
+- What is allowed and not allowed
+- Brackets
+- Simple add function

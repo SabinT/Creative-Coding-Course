@@ -1,0 +1,2 @@
+- Setting breakpoints
+- Execute code inside a class's function and inspect the value of "this"
